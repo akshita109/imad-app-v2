@@ -1,3 +1,8 @@
 console.log('Loaded!');
 
-element.inner HTML="New value";
+var img=document.getElement8yID('img');
+img.onclick=function()
+{
+    img.style.marginLeft='100px';
+};
+
